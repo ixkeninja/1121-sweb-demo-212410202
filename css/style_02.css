@@ -94,12 +94,6 @@
      font-size: 1rem;
      color: var(--clr-grey-3);
   }
-
-  .nav-header a {
-    text-decoration: none;
-    color: var(--clr-primary-1);
-    font-size: 1rem;
-  }
   
   .nav-links {
       display: flex;
