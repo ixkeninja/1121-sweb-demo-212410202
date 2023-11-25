@@ -15,6 +15,7 @@ function showdemo(week) {
 
           break;
         case 6: 
+        p.innerHTML = `<iframe src="./w06_02_navbar/index.html" width="100%" height="100%" />`;
 
           break;
         case 7:
